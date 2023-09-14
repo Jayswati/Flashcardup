@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Flashcardup/static/css/main.5d7dc1b1.css",
+    "main.js": "/Flashcardup/static/js/main.4dd024c6.js",
+    "static/media/img.png": "/Flashcardup/static/media/img.121d1c79f0aaa19a07d9.png",
+    "index.html": "/Flashcardup/index.html",
+    "main.5d7dc1b1.css.map": "/Flashcardup/static/css/main.5d7dc1b1.css.map",
+    "main.4dd024c6.js.map": "/Flashcardup/static/js/main.4dd024c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7dc1b1.css",
+    "static/js/main.4dd024c6.js"
+  ]
+}
